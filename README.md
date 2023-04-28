@@ -7,7 +7,7 @@ To achieve this goal, used a combination of three deep learning models. Firstly,
 - Scraped a Wikipedia page that contained a list of companies included in the S&P 500 index. This index measures the performance of 500 large companies listed on stock exchanges in the United States and is regularly updated, making it a reliable source of information.
 - used the Yahoo Finance API to randomly gather daily data for 200 companies. The data covers the period from January 2015 to March 2023 and was extracted into separate CSV files for each company. 
 ## Data Preparation
-- Data Preparation for Regressor Model
+- Data Preparation for Neural Network Regressor Model
 - Data Preparation and Feature Selection for RNN model
 - Data Preparation for ANN Model
 ## Model Planning and Building
