@@ -1,3 +1,4 @@
+![1684343621611](https://github.com/Ze-Michelle-Sun/Prospective-Analysis-of-Stock-Prices-with-Deep-Learning/assets/110506170/fe02389c-1f99-4a28-b77c-83f546b74a64)
 # Prospective-Analysis-of-Stock-Prices-with-Deep-Learning
 ## The project Goal
 The project aims to develop a hybrid deep learning model for prospective analysis of stock prices, leveraging the power of deep learning models to make accurate predictions of future stock prices.
